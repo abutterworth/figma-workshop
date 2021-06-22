@@ -14,7 +14,13 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@edx/brand-edx.org": "^2.0.3",
+    "@edx/paragon": "^14.16.7",
     "gatsby": "^3.6.2",
+    "gatsby-plugin-react-svg": "^3.0.1",
+    "gatsby-plugin-sass": "^4.7.1",
+    "node-sass": "^6.0.0",
+    "path-browserify": "^1.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },

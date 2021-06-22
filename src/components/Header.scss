@@ -1,0 +1,12 @@
+.site-header {
+  .header-content {
+    display: flex;
+    min-height: 80px;
+    align-items: center;
+  }
+  nav {
+    a {
+      margin-left: 2rem;
+    }
+  }
+}
